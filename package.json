@@ -1,0 +1,17 @@
+{
+    "name": "generator",
+    "version": "0.1.0",
+    "description": "",
+    "main": "server.js",
+    "dependencies": {
+        "async": "1.0.0",
+        "aws-sdk": "2.1.30",
+        "cluster": "~0.7.7",
+        "config-chain": "~1.1.8",
+        "express": "4.12.4",
+        "morgan": "1.5.3",
+        "optimist": "~0.6.0",
+        "pg": "4.4.3",
+        "python-shell": "0.1.0"
+    }
+}
